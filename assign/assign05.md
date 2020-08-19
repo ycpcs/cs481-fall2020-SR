@@ -32,7 +32,7 @@ Because this milestone involves implementing several of your most important use 
 
 # The Demonstration
 
-Plan to present for the entire class period, including questions - and please remeber to invite the Swarm Robotics Engineering Capstone team, and other individuals who you would like to attend the presentation. Your presentation should include the following elements:
+Plan to present for the entire class period, including questions - and please remember to invite the Swarm Robotics Engineering Capstone team, and other individuals who you would like to attend the presentation. Your presentation should include the following elements:
 
 - Demonstrate the system in action. If you have a UI, show it.
 - Run your unit tests to demonstrate your testing framework, and describe what is happening.

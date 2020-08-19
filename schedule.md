@@ -6,7 +6,7 @@ title: Schedule
 
 This is the course schedule for CS 481-102-SR (Swarm Robotics Project).
 
-This schedule shows work completed before the start of the semesterassumes that no work was done before the semester started.  Given that you have planned on completing assignments 1, 3, and 4 by the first day of your class, I changed the Milestone dates to accommodate that initial effort.
+This schedule shows work completed before the start of the semester.  Given that you have planned on completing assignments 1, 3, and 4 by the first day of your class, I changed the Milestone dates to accommodate that initial effort.
 
 **Assignment** | **Due**
 :--------------|:---------

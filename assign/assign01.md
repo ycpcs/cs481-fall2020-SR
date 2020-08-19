@@ -47,7 +47,7 @@ We **strongly** encourage you to meet with the faculty and the Sewarm Robotics C
 
 Your second task is to create a main repository for your project on [GitHub](https://github.com).
 
-You should add all of your team members as contributors to the repository.  Also, add the instructor (GitHub user [DonaldHakeII](https://github.com/DonaldHakeII).  At a later date, you will likely also be adding one or more team members from the Radio Telescope Engineering Capstone team, as well as a technical advisor as contributors.
+You should add all of your team members as contributors to the repository.  Also, add the instructor (GitHub user [DonaldHakeII](https://github.com/DonaldHakeII) ).  At a later date, you will likely also be adding members from the Swarm Robotics Engineering Capstone team, and perhaps technical advisors as contributors.
 
 In the issue tracker for the main repository, create three labels:
 

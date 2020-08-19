@@ -6,7 +6,7 @@ title: Senior Software Design I
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS481-102-RT: Senior Software Design I (Swarm Robotics Project)
+## CS481-102-SR: Senior Software Design I (Swarm Robotics Project)
 
 ## Fall 2020
 

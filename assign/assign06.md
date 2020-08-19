@@ -24,7 +24,7 @@ Your task is to demonstrate a 50% working version of your system.
 # The Demonstration
 
 
-Your team should plan to present for the entire class period (including questions).  Please remember to invite the Swarm Engineering Capstone team, and any other individuals who you would like to attend the presentation. Your presentation should include the following elements:
+Your team should plan to present for the entire class period (including questions).  Please remember to invite the Swarm Robotics Engineering Capstone team, and any other individuals who you would like to attend the presentation. Your presentation should include the following elements:
 
 - Demonstrate the system in action. If you have a UI, show it.
 - Run your unit tests to demonstrate your testing framework, and describe what is happening.
